@@ -31,7 +31,7 @@ A Software developer by Profession, [YouTuber](youtube.com/mayanktyagi/) by pass
 <br><br>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
