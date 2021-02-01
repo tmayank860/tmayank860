@@ -1,11 +1,14 @@
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 # I'm <a href="https://tmayank860.github.io/MayankTyagi/"  target="_blank">Mayank Tyagi </a>,
-A Software developer by Profession, <a href="youtube.com/mayanktyagi/" target="_blank">YouTuber</a> by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
+A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" target="_blank">YouTuber</a> by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
 <img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>System Engineer Specialist at Infosys Ltd</b>.
 
 <br/>
+<a href="http://youtube.com/mayanktyagi/" target="_blank"> 
+   <img align="left" alt="tmayank860's youtube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <a href="https://www.instagram.com/the_cs_guy_/" target="_blank"> 
    <img align="left" alt="tmayank860's instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
