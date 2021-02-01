@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-# I'm [Mayank Tyagi](https://tmayank860.github.io/MayankTyagi/),
-A Software developer by Profession, [YouTuber](youtube.com/mayanktyagi/) by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
+# I'm [Mayank Tyagi](https://tmayank860.github.io/MayankTyagi/  target="_blank"),
+A Software developer by Profession, [YouTuber](youtube.com/mayanktyagi/  target="_blank") by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
 <img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>System Engineer Specialist at Infosys Ltd</b>.
 
