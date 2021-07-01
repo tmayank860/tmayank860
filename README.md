@@ -3,7 +3,7 @@
 # I'm <a href="https://tmayank860.github.io/MayankTyagi/"  target="_blank">Mayank Tyagi </a>,
 A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" target="_blank">YouTuber</a> by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
-<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>System Engineer Specialist at Infosys Ltd</b>.
+<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Digital Specialist Engineer at Infosys Ltd</b>.
 
 <br/>
 <a href="http://youtube.com/mayanktyagi/" target="_blank"> 
@@ -40,7 +40,7 @@ A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" ta
 
 
 
-- 👨🏻‍💻 I’m currently working on an <em>Angular</em>  project
+- 👨🏻‍💻 I’m currently working on <em>React Native</em>  project
 - 🌱 I love to solve real-life problems with my projects;
 - 🤔 I’m learning Data Structure and Algorithm;
 - 💬 Ask me about anything, I am happy to help;
