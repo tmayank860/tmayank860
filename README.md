@@ -70,10 +70,10 @@ A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" ta
  <br>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=tmayank860&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>  -->
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmayank860&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424&locale=en" alt="tmayank860" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmayank860&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424&layout=compact&langs_count=8" alt="tmayank860" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmayank860&locale=en" alt="tmayank860" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmayank860&layout=compact&langs_count=8" alt="tmayank860" />
 
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmayank860" alt="tmayank860" /></p>
 <!--[tmayank860 github stats](https://github-readme-stats.vercel.app/api?username=tmayank860&show_icons=true&hide_border=true)-->
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/tmayank860/tmayank860) :pencil:
