@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-# I'm <a align="center" href="https://tmayank860.github.io/MayankTyagi/"  target="_blank">Mayank Tyagi </a>,
+# I'm <a align="center" href="https://tmayank860.github.io/MayankTyagi-portfolio/"  target="_blank">Mayank Tyagi </a>,
 A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" target="_blank">YouTuber</a> by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
 <img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Digital Specialist Programmer(Power Programmer) at Infosys Ltd.</b>
