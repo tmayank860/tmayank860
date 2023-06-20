@@ -12,7 +12,7 @@ A Software developer by Profession, <a href="http://youtube.com/mayanktyagi/" ta
 <a href="https://www.instagram.com/the_cs_guy_/" target="_blank"> 
    <img align="center" alt="tmayank860's instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/tmayank860" target="_blank">
+<a href="https://twitter.com/the_cs_guy_" target="_blank">
   <img align="center" alt="tmayank860| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 <a href="https://www.linkedin.com/in/tmayank860/" target="_blank">
